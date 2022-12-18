@@ -1,4 +1,7 @@
+Corexitaldata.com wishes to build a tool to for OSINT that finds out where a phone number is located - city/addres for landlines or by city for cell phones
+
 # PhoneLocality-
+
 Find out the local area of a phone number you enter, i am wanting to intergrate with an API to link Sasktel cell phone towers to get information on where a cell phone may be located by city
 
 
