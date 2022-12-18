@@ -20,7 +20,7 @@ def animate():
         sys.stdout.write('\rloading ' + c)
         sys.stdout.flush()
         time.sleep(0.1)
-    sys.stdout.write('\rDone!     ')
+    sys.stdout.write('\rCorexital Data Results!     ')
 
 t = threading.Thread(target=animate)
 t.start()
